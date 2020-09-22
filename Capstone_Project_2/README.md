@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Hotels Booking Cancellation Prediction #
 
 Analyze and interpret the data of hotels booking information by Data cleaning, Exploratory Data Analysis, Statistical Data Analysis.
